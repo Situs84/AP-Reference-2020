@@ -1,5 +1,5 @@
 #### NOTICE:
-Because of equation formatting issues on Github, none of the equations here work correctly. A PDF download is available in the 'Exports' folder.
+Because of equation formatting issues on Github, none of the equations here work correctly. A PDF download is available [here](Exports/Physics-release.pdf)
 
 
 # AP Physics 1 Exam Reference
