@@ -12,7 +12,7 @@ An interaction can be either a force exerted by objects outside the system or th
 Change in kinetic energy ($\Delta E_k$) of an object depends on force exerted and displacement of the object.
 
 $\Delta E_k = W = F_\parallel d= Fd\cos(\theta)$
-* ###### Net force exerted on an obect _perpendicular_ to the direction of     displacement of the object can change the direction of the object     __*without*__ changing the kinetic energy of the object
+*  Net force exerted on an obect _perpendicular_ to the direction of     displacement of the object can change the direction of the object     __*without*__ changing the kinetic energy of the object
 
 $E_k = \frac{1}{2}mv^2$
 <br>$E_k = \frac{1}{2}I\omega^2$

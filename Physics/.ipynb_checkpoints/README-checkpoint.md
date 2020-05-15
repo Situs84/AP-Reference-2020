@@ -1,3 +1,7 @@
+#### NOTICE:
+Because of equation formatting issues on Github, none of the equations here work correctly. A PDF download is available in the 'Exports' folder.
+
+
 # AP Physics 1 Exam Reference
 ##### Units 1-7
 ### [Important Exam Things](IET.md)
