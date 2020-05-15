@@ -1,9 +1,12 @@
-#### NOTICE:
-Because of equation formatting issues on Github, none of the equations here work correctly. A PDF download is available [here](Exports/Physics-release.pdf)
-
-
-# AP Physics 1 Exam Reference
+# __NOTICE:__
+__Because of equation formatting issues on Github, none of the equations here work correctly. A PDF download with the correct formatting is available [here](Exports/Physics-release.pdf)__
 #### [&larr; Back](../README.md)
+
+<br>
+
+---
+
+## AP Physics 1 Exam Reference
 ##### Units 1-7
 ### [Important Exam Things](IET.md)
 ### [Units](Units.md)
