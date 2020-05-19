@@ -17,3 +17,4 @@ __Because of equation formatting issues on Github, none of the equations here wo
 ### [Unit 5 - Momentum](Momentum.md)
 ### [Unit 6 - Simple Harmonic Motion](SHM.md)
 ### [Unit 7 - Torque and Rotational Motion](Torque.md)
+### [Unit 8 - Electric Charge and Electric Force](ECEF.md)
