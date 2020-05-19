@@ -7,3 +7,4 @@
 ### [Unit 1 - Basic Economic Concepts](1BEC.md)
 ### [Unit 2 - Supply and Demand](2SD.md)
 ### [Unit 3 - Production, Cost, and the Perfect Competition Model](3PCPCM.md)
+### [Unit 4 - Imperfect Competition](IC.md)
