@@ -1,5 +1,5 @@
 # AP Micro Exam Reference
-#### This will be periodically updated, hopefully mostly complete by the end of this coming Monday (May 18)
+##### All units are in this now (as of May 19). This is subject to revisions/additions, though public changes will not be made between 3:30 and 5:00 on May 20, and changes following that time slot will not be influenced by the content on the AP exam.
 #### [&larr; Back](../README.md)
 ##### Units 1-5
 ### [Important Exam Things](IET.md)
