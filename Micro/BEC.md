@@ -62,3 +62,5 @@ In a model of rational consumer choice, consumers are assumed to make choices so
 Law that states as consumption of goods & services _increases_ the Marginal Utility gained from each additional unit _decreases_.
 
 ![text](https://courses.byui.edu/econ_150/econ_150_old_site/images/5-1_Consumer_Behavior_08.jpg)
+
+---
