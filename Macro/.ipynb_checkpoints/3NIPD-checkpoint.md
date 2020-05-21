@@ -96,6 +96,8 @@ The AD-AS model is ued to demonstrate the short-run effects of this policy.
 
 IRL there are lags because of the time it takes to decide on and implement a policy action
 
+__Monetary Policy is in Unit 4 - Fiscal Policy__
+
 ---
 #### Automatic Stabilizers
 Automatic stabilizers support the economy during recessinos and help prevent the economy from being overheated during expansionary periods.
